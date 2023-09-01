@@ -1,0 +1,15 @@
+C:\Users\tobia\source\repos\Inälmning 4 väderstation\Inälmning 4 väderstation\obj\Debug\net6.0\Inälmning 4 väderstation.csproj.AssemblyReference.cache
+C:\Users\tobia\source\repos\Inälmning 4 väderstation\Inälmning 4 väderstation\obj\Debug\net6.0\Inälmning 4 väderstation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobia\source\repos\Inälmning 4 väderstation\Inälmning 4 väderstation\obj\Debug\net6.0\Inälmning 4 väderstation.AssemblyInfoInputs.cache
+C:\Users\tobia\source\repos\Inälmning 4 väderstation\Inälmning 4 väderstation\obj\Debug\net6.0\Inälmning 4 väderstation.AssemblyInfo.cs
+C:\Users\tobia\source\repos\Inälmning 4 väderstation\Inälmning 4 väderstation\obj\Debug\net6.0\Inälmning 4 väderstation.csproj.CoreCompileInputs.cache
+C:\Users\tobia\source\repos\Inälmning 4 väderstation\Inälmning 4 väderstation\bin\Debug\net6.0\Inälmning 4 väderstation.exe
+C:\Users\tobia\source\repos\Inälmning 4 väderstation\Inälmning 4 väderstation\bin\Debug\net6.0\Inälmning 4 väderstation.deps.json
+C:\Users\tobia\source\repos\Inälmning 4 väderstation\Inälmning 4 väderstation\bin\Debug\net6.0\Inälmning 4 väderstation.runtimeconfig.json
+C:\Users\tobia\source\repos\Inälmning 4 väderstation\Inälmning 4 väderstation\bin\Debug\net6.0\Inälmning 4 väderstation.dll
+C:\Users\tobia\source\repos\Inälmning 4 väderstation\Inälmning 4 väderstation\bin\Debug\net6.0\Inälmning 4 väderstation.pdb
+C:\Users\tobia\source\repos\Inälmning 4 väderstation\Inälmning 4 väderstation\obj\Debug\net6.0\Inälmning 4 väderstation.dll
+C:\Users\tobia\source\repos\Inälmning 4 väderstation\Inälmning 4 väderstation\obj\Debug\net6.0\refint\Inälmning 4 väderstation.dll
+C:\Users\tobia\source\repos\Inälmning 4 väderstation\Inälmning 4 väderstation\obj\Debug\net6.0\Inälmning 4 väderstation.pdb
+C:\Users\tobia\source\repos\Inälmning 4 väderstation\Inälmning 4 väderstation\obj\Debug\net6.0\Inälmning 4 väderstation.genruntimeconfig.cache
+C:\Users\tobia\source\repos\Inälmning 4 väderstation\Inälmning 4 väderstation\obj\Debug\net6.0\ref\Inälmning 4 väderstation.dll
